@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hello! I'm **Panneer Selvam**, a passionate Windows Administrator and Automation Specialist with over 20 years of experience in Active Directory, Windows support, SCCM, and Azure. I love simplifying complex tasks using **PowerShell** and automating everyday administrative operations to save time and reduce errors.
+Hello! I'm **Panneer Selvam**, a passionate Architect and Automation Specialist experienced in  Windows Server Management, Active Directory, SCCM, and Azure. I love simplifying complex tasks using **PowerShell** and automating everyday administrative operations to save time and reduce errors.
 
 ## 🚀 About Me
 
@@ -10,8 +10,6 @@ Hello! I'm **Panneer Selvam**, a passionate Windows Administrator and Automation
 - 📊 **Data Analysis**: Proficient in creating scripts for data collection, analysis, and reporting.
 
 ## 🌈 Let's Make Things Automated!
-
-I am committed to sharing my knowledge and learning from the community. Check out my repositories for various PowerShell scripts that can help automate tasks in Windows, AD, SCCM, and Azure!
 
 ### 🛠️ Tools and Technologies:
 - **PowerShell**: Advanced scripting for automation
