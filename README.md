@@ -1,4 +1,3 @@
-# PanneerSelvam
 # 🌟 Welcome to My GitHub Profile! 🌟
 
 Hello! I'm **Panneer Selvam**, a passionate Windows Administrator and Automation Specialist with over 20 years of experience in Active Directory, Windows support, SCCM, and Azure. I love simplifying complex tasks using **PowerShell** and automating everyday administrative operations to save time and reduce errors.
